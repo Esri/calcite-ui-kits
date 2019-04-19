@@ -50,5 +50,6 @@ For additional information, contact: Environmental Systems Research Institute, I
 email: contracts@esri.com
 
 🔓 Contributing
+--
 
 Please read the [contribute document](CONTRIBUTING.md).
