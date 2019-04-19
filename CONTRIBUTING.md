@@ -2,21 +2,21 @@
 
 You want to contribute? Nice! Below are some guidelines for ensuring that your contribution makes sense for everybody.
 
-## Reporting Issues
+## ⚠ Reporting Issues
 
 Found a problem?
 
 See if your issue or idea has already been reported.
 Provide detailed reproduction instructions as well as what behavior is expected.
 
-## Adding or updating components?
+## 📝 Adding or updating components?
 
 Join the conversation on the Microsoft Teams under the appropriate platform:
 
 **[Calcite team](https://teams.microsoft.com/l/team/19%3a3ce5ad449cba48958db154459f5a9a8f%40thread.skype/conversations?groupId=56fae21a-9407-4943-859f-a9bfcf0bbad3&tenantId=aee6e3c9-711e-4c7c-bd27-04f2307db20d)**
 
 
-## Additions and reviews
+## 👓 Reviews
 
 ### Things to keep in mind when working on additions to a component library
 
