@@ -49,12 +49,6 @@ For additional information, contact: Environmental Systems Research Institute, I
 
 email: contracts@esri.com
 
-<<<<<<< HEAD
 🔓 Contributing
---
 
 Please read the [contribute document](CONTRIBUTING.md).
-=======
-## 🔓 Contributing
-Please read the [contribute document](CONTRIBUTING.md).
->>>>>>> 3ec135c3c7dffa4acb51b13af90271184c442166
