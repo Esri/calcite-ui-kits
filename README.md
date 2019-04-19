@@ -1,6 +1,7 @@
 # calcite-sketch-libraries
 
-## 🔍 Accessibility
+🔍 Accessibility
+--
 
 All of the designs within the Calcite sketch libraries meet the WCAG 2.0 AA accessibility guidelines and are compliant with Section 508 standards. If you choose to customize these designs, please make sure they continue to meet these requirements.
 
