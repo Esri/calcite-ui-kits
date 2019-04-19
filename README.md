@@ -2,10 +2,13 @@
 
 Build usable, accessible Esri experiences that are approachable by any audience. UI Kits per platform help teams build on-brand Esri products easily and quickly.
 
-## 🔍 Accessibility
+🔍 Accessibility
+--
+
 All of the designs within the Calcite sketch libraries meet the WCAG 2.0 AA accessibility guidelines and are compliant with Section 508 standards. If you choose to customize these designs, please make sure they continue to meet these requirements.
 
-## 🔗 Linking sketch libraries
+🔗 Linking sketch libraries
+--
 
 Regardless of platform, the process for linking the sketch libraries is the same. 
 
@@ -22,7 +25,8 @@ Regardless of platform, the process for linking the sketch libraries is the same
 4. Close the Preferences window 🎉
 
 
-## 📦 Using the kit
+📦 Using the kit
+--
 
 To keep components and parts of a component organized, focusing on the naming of the component first will help the user navigate. From there, it's the type (off, on, empty, error, etc) followed by the state (focus, hover, idle).
 
@@ -32,7 +36,8 @@ To keep components and parts of a component organized, focusing on the naming of
 2. Leverage the symbol panel to change the state of the component along with any applicable overrides.
 
 
-## 📜 Licensing
+📜 Licensing
+--
 
 COPYRIGHT © 2019 Esri
 
@@ -46,5 +51,7 @@ For additional information, contact: Environmental Systems Research Institute, I
 
 email: contracts@esri.com
 
-## 🔓 Contributing
+🔓 Contributing
+--
+
 Please read the [contribute document](CONTRIBUTING.md).
