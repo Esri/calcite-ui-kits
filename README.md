@@ -1,5 +1,12 @@
 # calcite-sketch-libraries
 
+🚛 What's in the UI Kit?
+--
+- Matching designs to [calcite-components](https://github.com/Esri/calcite-components) (Web Components)
+    - Typography library: [calcite-fonts](https://github.com/ArcGIS/calcite-fonts)
+     - Icon library: [calcite-ui-icons](https://github.com/Esri/calcite-ui-icons)
+     - Color library: [calcite-colors](https://github.com/Esri/calcite-colors)
+
 🔍 Accessibility
 --
 
