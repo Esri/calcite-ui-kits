@@ -17,8 +17,6 @@ All of the designs within the Calcite sketch libraries meet the WCAG 2.0 AA acce
 
 Regardless of platform, the process for linking the sketch libraries is the same. 
 
-**Make sure to unzip the platform library**
-
 ![image](https://user-images.githubusercontent.com/6144462/56435459-5788ba80-628d-11e9-8483-896661170512.png)
 
 1. Click Sketch > Preferences
