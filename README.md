@@ -24,7 +24,7 @@ Regardless of platform, the process for linking the sketch libraries is the same
 
 ![image](https://user-images.githubusercontent.com/6144462/56435659-22c93300-628e-11e9-87d4-5aa309f891b2.png)
 
-3. Navigate to the folder with the extracted ZIP files and select all th efiles
+3. Navigate to the folder with the extracted ZIP files and select all the files
 4. Close the Preferences window 🎉
 
 
