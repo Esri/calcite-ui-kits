@@ -1,3 +1,5 @@
+### This project is deprecated and is not recommended for future development. It will be replaced with a newer version. Coming soon!
+
 # calcite-sketch-libraries
 
 🚛 What's in the UI Kit?
