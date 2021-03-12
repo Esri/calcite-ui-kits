@@ -12,12 +12,12 @@
 🔍 Accessibility
 --
 
-All of the designs within the Calcite sketch libraries meet the WCAG 2.0 AA accessibility guidelines and are compliant with Section 508 standards. If you choose to customize these designs, please make sure they continue to meet these requirements.
+All of the designs within the Calcite libraries meet the WCAG 2.0 AA accessibility guidelines and are compliant with Section 508 standards. If you choose to customize these designs, please make sure they continue to meet these requirements.
 
 🔗 Linking sketch libraries
 --
 
-Regardless of platform, the process for linking the sketch libraries is the same. 
+Regardless of platform, the process for linking the Sketch libraries is the same. 
 
 ![image](https://user-images.githubusercontent.com/6144462/56435459-5788ba80-628d-11e9-8483-896661170512.png)
 
@@ -44,7 +44,7 @@ To keep components and parts of a component organized, focusing on the naming of
 📜 Licensing
 --
 
-COPYRIGHT © 2020 Esri
+COPYRIGHT © 2021 Esri
 
 All rights reserved under the copyright laws of the United States and applicable international laws, treaties, and conventions.
 
