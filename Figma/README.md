@@ -9,10 +9,14 @@
      - Icon library: [calcite-ui-icons](https://github.com/Esri/calcite-ui-icons)
      - Color library: [calcite-colors](https://github.com/Esri/calcite-colors)
 
+
+
 🔍 Accessibility
 --
 
 All of the designs within the Calcite libraries meet the WCAG 2.0 AA accessibility guidelines and are compliant with Section 508 standards. If you choose to customize these designs, please make sure they continue to meet these requirements.
+
+
 
 ⤵️ Importing Figma files
 --
@@ -36,6 +40,7 @@ Regardless of platform, the process for linking the Figma files is the same.
 4. In the Libraries menu, turn on the Calcite files and you are all set! 🎉
 
 
+
 📦 Using the kit
 --
 
@@ -52,6 +57,7 @@ Regardless of platform, the process for linking the Figma files is the same.
 3. For type click on the Style button in your right-hand Text panel to access Calcite Typography.
 
 
+
 Component Variants
 --
 
@@ -59,9 +65,11 @@ Component Variants
 
 Components are built with Figma variants. When using a component, locate the right-hand panel for props and slots that refelect directly what is in code.
 
-![image](https://user-images.githubusercontent.com/14083530/111009988-c5936a80-835a-11eb-92d7-a9eddde9561c.png)
+![image](https://user-images.githubusercontent.com/14083530/111010383-fc1db500-835b-11eb-9962-3d4ff5d65bbf.png)
 
 Complex components have nested components inside. To access the variants, simply double click them and the right-hand variant panel will show the nested props.
+
+
 
 
 📜 Licensing
