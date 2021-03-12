@@ -51,6 +51,8 @@ Regardless of platform, the process for linking the Figma files is the same.
 
 3. For type click on the Style button in your right-hand Text panel to access Calcite Typography.
 
+
+Component Variants
 --
 
 ![image](https://user-images.githubusercontent.com/14083530/111009677-f1fab700-8359-11eb-86f7-6013d8f95c70.png)
