@@ -1,6 +1,4 @@
-# Calcite UI Kits
-
-## Sketch UI Kit:
+# Sketch UI Kit:
 
 🚛 What's in the UI Kit?
 --
