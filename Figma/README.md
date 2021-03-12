@@ -39,8 +39,6 @@ Regardless of platform, the process for linking the Figma files is the same.
 📦 Using the kit
 --
 
-To keep components and parts of a component organized, focusing on the naming of the component first will help the user navigate. From there, it's the type (off, on, empty, error, etc) followed by the state (focus, hover, idle).
-
 ![image](https://user-images.githubusercontent.com/14083530/111009106-53ba2180-8358-11eb-9089-952f9f4c98fc.png)
 
 1. Click on the Assets tab in your left-hand panel to access the Calcite Components and UI Icons.
@@ -52,6 +50,16 @@ To keep components and parts of a component organized, focusing on the naming of
 ![image](https://user-images.githubusercontent.com/14083530/111009244-ba3f3f80-8358-11eb-8c58-533c9b6a2396.png)
 
 3. For type click on the Style button in your right-hand Text panel to access Calcite Typography.
+
+--
+
+![image](https://user-images.githubusercontent.com/14083530/111009677-f1fab700-8359-11eb-86f7-6013d8f95c70.png)
+
+Components are built with Figma variants. When using a component, locate the right-hand panel for props and slots that refelect directly what is in code.
+
+![image](https://user-images.githubusercontent.com/14083530/111009988-c5936a80-835a-11eb-92d7-a9eddde9561c.png)
+
+Complex components have nested components inside. To access the variants, simply double click them and the right-hand variant panel will show the nested props.
 
 
 📜 Licensing
