@@ -1,6 +1,4 @@
-# Calcite UI Kits
-
-## Figma UI Kit:
+# Figma UI Kit:
 
 🚛 What's in the UI Kit?
 --
