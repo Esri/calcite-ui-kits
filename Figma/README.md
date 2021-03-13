@@ -63,7 +63,7 @@ Component Variants
 
 Components are built with Figma variants. When using a component, locate the right-hand panel for props and slots that refelect directly what is in code.
 
-![image](https://user-images.githubusercontent.com/14083530/111010383-fc1db500-835b-11eb-9962-3d4ff5d65bbf.png)
+![image](https://user-images.githubusercontent.com/14083530/111010708-ea88dd00-835c-11eb-89f8-2bb589eeb3b6.png)
 
 Complex components have nested components inside. To access the variants, simply double click them and the right-hand variant panel will show the nested props.
 
