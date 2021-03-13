@@ -61,7 +61,7 @@ Component Variants
 
 ![image](https://user-images.githubusercontent.com/14083530/111009677-f1fab700-8359-11eb-86f7-6013d8f95c70.png)
 
-Components are built with Figma variants. When using a component, locate the right-hand panel for props and slots that refelect directly what is in code.
+Components are built with Figma variants. When using a component, locate the right-hand panel for props and slots that reflect directly what is in code.
 
 ![image](https://user-images.githubusercontent.com/14083530/111010708-ea88dd00-835c-11eb-89f8-2bb589eeb3b6.png)
 
