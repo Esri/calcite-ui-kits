@@ -44,7 +44,7 @@ Regardless of platform, the process for linking the Figma files is the same.
 📦 Using the kit
 --
 
-![image](https://user-images.githubusercontent.com/14083530/111009106-53ba2180-8358-11eb-9089-952f9f4c98fc.png)
+![image](https://user-images.githubusercontent.com/14083530/114729927-07228700-9d06-11eb-9a9d-15437af64836.png)
 
 1. Click on the Assets tab in your left-hand panel to access the Calcite Components and UI Icons.
 
