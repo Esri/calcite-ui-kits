@@ -31,7 +31,7 @@ Regardless of platform, the process for linking the Figma files is the same.
 
 2. Select the Calcite .fig files and click Open.
 
-![image](https://user-images.githubusercontent.com/14083530/111008803-831c5e80-8357-11eb-80a6-83a364d5a8e6.png)
+![image](https://user-images.githubusercontent.com/14083530/114729444-9a0ef180-9d05-11eb-932d-58342e33efb1.png)
 
 3. Click on the burger menu in the top left of the Figma toolbar and click Libraries.
 
