@@ -21,7 +21,7 @@ All of the designs within the Calcite libraries meet the WCAG 2.0 AA accessibili
 
 Regardless of platform, the process for linking the Figma files is the same. 
 
-Be sure your desktop app is up to date and using the latest version.
+⚠ For desktop app users, make sure you are using the latest Figma version ⚠
 
 ![image](https://user-images.githubusercontent.com/14083530/111008381-98dd5400-8356-11eb-8f6a-269c2648f665.png)
 
