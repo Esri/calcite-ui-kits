@@ -33,7 +33,7 @@ Regardless of platform, the process for linking the Figma files is the same.
 
 ![image](https://user-images.githubusercontent.com/14083530/114729444-9a0ef180-9d05-11eb-932d-58342e33efb1.png)
 
-3. Click on the burger menu in the top left of the Figma toolbar and click Libraries.
+3. Click on the Figma menu in the top left of the toolbar and then click Libraries.
 
 ![image](https://user-images.githubusercontent.com/14083530/111008899-c70f6380-8357-11eb-863c-e0bcb3bc92f7.png)
 
