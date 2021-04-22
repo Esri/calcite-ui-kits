@@ -58,7 +58,7 @@ Regardless of platform, the process for linking the Figma files is the same.
 
 
 
-Component Variants
+Component variants
 --
 
 ![image](https://user-images.githubusercontent.com/14083530/111009677-f1fab700-8359-11eb-86f7-6013d8f95c70.png)
@@ -67,7 +67,7 @@ Components are built with Figma variants. When using a component, locate the rig
 
 ![image](https://user-images.githubusercontent.com/14083530/111010708-ea88dd00-835c-11eb-89f8-2bb589eeb3b6.png)
 
-Complex components have nested components inside. To access the variants, simply double click them and the right-hand variant panel will show the nested props.
+Complex components have nested components inside. To access the variants, simply double click them and the right-hand variant panel will show the nested properties.
 
 
 
