@@ -23,7 +23,7 @@ Regardless of platform, the process for linking the Figma files is the same.
 
 ⚠ For desktop app users, make sure you are using the latest version of Figma ⚠
 
-![image](https://user-images.githubusercontent.com/14083530/111008381-98dd5400-8356-11eb-8f6a-269c2648f665.png)
+![image](https://user-images.githubusercontent.com/14083530/118143521-0ea28200-b3d1-11eb-96ac-2b139a4c179a.png)
 
 1. Click the Import button in the top right of the Figma toolbar.
 
