@@ -1,11 +1,6 @@
-# calcite-ui-kits (Beta)
+# License
 
-#### Welcome! Calcite UI Kits support Sketch and Figma versions of calcite-typography, calcite-colors, calcite-components, and calcite-ui-icons.
-
-
-## License
-
-COPYRIGHT © 2020 Esri
+COPYRIGHT © 2021 Esri
 
 All rights reserved under the copyright laws of the United States and applicable international laws, treaties, and conventions.
 
