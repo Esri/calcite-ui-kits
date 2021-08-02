@@ -33,11 +33,11 @@ Regardless of platform, the process for linking the Figma files is the same.
 
 ![image](https://user-images.githubusercontent.com/14083530/127902285-8b7a4c8d-cccb-4601-b75f-310c76df78fa.png)
 
-3. Now in each document, click the dropdown in the top-center toolbar. Publish each document.
+3. Now in each Calcite document, click the dropdown in the top-center toolbar. Publish each document.
 
 ![image](https://user-images.githubusercontent.com/14083530/114729444-9a0ef180-9d05-11eb-932d-58342e33efb1.png)
 
-4. Click on the Figma menu in the top left of the toolbar and then click Libraries.
+4. To access the components in your documents, click on the Figma menu in the top left of the toolbar and then click Libraries.
 
 ![image](https://user-images.githubusercontent.com/14083530/111008899-c70f6380-8357-11eb-863c-e0bcb3bc92f7.png)
 
