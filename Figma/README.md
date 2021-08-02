@@ -27,19 +27,20 @@ Regardless of platform, the process for linking the Figma files is the same.
 
 1. Click the Import button in the top right of the Figma toolbar.
 
+![image](https://user-images.githubusercontent.com/14083530/127902285-8b7a4c8d-cccb-4601-b75f-310c76df78fa.png)
+
+2. Now in each document, click the dropdown in the top-center toolbar. Publish each document.
+
 ![image](https://user-images.githubusercontent.com/14083530/111008601-13a66f00-8357-11eb-8892-91b283b8bbd6.png)
 
-2. Select the Calcite .fig files and click Open.
+3. Select the Calcite .fig files and click Open.
 
 ![image](https://user-images.githubusercontent.com/14083530/114729444-9a0ef180-9d05-11eb-932d-58342e33efb1.png)
 
-3. Click on the Figma menu in the top left of the toolbar and then click Libraries.
-
-![image](https://user-images.githubusercontent.com/14083530/127902285-8b7a4c8d-cccb-4601-b75f-310c76df78fa.png)
-
-4. Now in each document, click the dropdown in the top-center toolbar. Publish each document.
+4. Click on the Figma menu in the top left of the toolbar and then click Libraries.
 
 ![image](https://user-images.githubusercontent.com/14083530/111008899-c70f6380-8357-11eb-863c-e0bcb3bc92f7.png)
+
 5. In the Libraries menu, turn on the Calcite files in your document and you are all set! 🎉
 
 
