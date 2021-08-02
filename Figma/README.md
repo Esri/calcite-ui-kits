@@ -35,9 +35,12 @@ Regardless of platform, the process for linking the Figma files is the same.
 
 3. Click on the Figma menu in the top left of the toolbar and then click Libraries.
 
-![image](https://user-images.githubusercontent.com/14083530/111008899-c70f6380-8357-11eb-863c-e0bcb3bc92f7.png)
+![image](https://user-images.githubusercontent.com/14083530/127902285-8b7a4c8d-cccb-4601-b75f-310c76df78fa.png)
 
-4. In the Libraries menu, turn on the Calcite files and you are all set! 🎉
+4. Now in each document, click the dropdown in the top-center toolbar. Publish each document.
+
+![image](https://user-images.githubusercontent.com/14083530/111008899-c70f6380-8357-11eb-863c-e0bcb3bc92f7.png)
+5. In the Libraries menu, turn on the Calcite files in your document and you are all set! 🎉
 
 
 
