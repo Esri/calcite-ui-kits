@@ -1,4 +1,4 @@
-# Sketch UI Kit:
+# Sketch UI Kit (Beta):
 
 🚛 What's in the UI Kit?
 --
