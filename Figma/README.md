@@ -1,4 +1,4 @@
-# Figma UI Kit:
+# Figma UI Kit (Beta):
 
 🚛 What's in the UI Kit?
 --
