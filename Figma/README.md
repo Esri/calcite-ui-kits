@@ -1,5 +1,9 @@
 # Figma UI Kit (Beta):
 
+> __This resource may not be up to date__
+> 
+> While in beta, this resource may not be aligned with Calcite Components
+
 🚛 What's in the UI Kit?
 --
 - Matching designs to [calcite-components](https://github.com/Esri/calcite-components) (Web Components)
