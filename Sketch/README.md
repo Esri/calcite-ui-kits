@@ -1,5 +1,10 @@
 # Sketch UI Kit (Beta):
 
+
+> __This resource will be deprecated__
+> 
+> Please reference the [Figma UI Kit documentation](https://github.com/Esri/calcite-ui-kits/tree/master/Figma).
+
 🚛 What's in the UI Kit?
 --
 - Matching designs to [calcite-components](https://github.com/Esri/calcite-components) (Web Components)
