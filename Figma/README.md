@@ -1,5 +1,8 @@
 # Figma UI Kit (Beta):
 
+> __This resource is deprecated__
+> 
+
 🚛 What's in the UI Kit?
 --
 - Matching designs to [calcite-components](https://github.com/Esri/calcite-components) (Web Components)
